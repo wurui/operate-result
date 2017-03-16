@@ -1,3 +1,33 @@
-.oxmod-operate-result{
-/* CSS */
- }
+.oxmod-operate-result {
+  /* CSS */
+}
+.oxmod-operate-result .result {
+  text-align: center;
+}
+.oxmod-operate-result .result-icon {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 50px;
+  margin: 10px auto;
+  border-radius: 50%;
+  background-color: #f60;
+}
+.oxmod-operate-result .result-icon:before {
+  color: #fff;
+  content: '\2755';
+  font-family: sans-serif;
+}
+.oxmod-operate-result .result-code-0 {
+  background-color: #44b549;
+}
+.oxmod-operate-result .result-code-0:before {
+  color: #fff;
+  content: '\2713';
+  font-family: sans-serif;
+}
+.oxmod-operate-result .result-msg {
+  font-size: 14px;
+  color: #555;
+  margin: 10px 20px;
+}

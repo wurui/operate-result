@@ -6,7 +6,7 @@
     <html env="{env/domain}">
       <head>
         <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
-        <title>operate-result Demo</title>
+        <title>operate-result - DEMO</title>
         <link rel="stylesheet" type="text/css" href="https://oxm1.cc/css/ea.css" />
         <link rel="stylesheet" type="text/css" href="asset/index.css" />
         <script src="https://oxm1.cc/js/require.js"></script>
