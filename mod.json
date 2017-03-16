@@ -1,0 +1,6 @@
+{
+  "name": "operate-result",
+  "version": "1.0.0",
+  "apiDependencies": ["operate-result"]
+}
+
